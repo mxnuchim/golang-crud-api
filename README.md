@@ -75,13 +75,13 @@
   GET /posts
   ```
 
-- **Get a single Posts**
+- **Get a single Post**
 
   ```http
   GET /posts/:id
   ```
 
-- **Delete a Posts**
+- **Delete a Post**
 
   ```http
   GET /posts/:id
